@@ -1,3 +1,3 @@
-# data-structuress
+# data-structures
 
 ##### Practicing various data structures
